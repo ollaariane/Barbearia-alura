@@ -1,9 +1,13 @@
 body{
-    background: #cccccc;
+
 }
 
 #banner{
     width: 100%;
+}
+
+.principal{
+    background: #ffff;
 }
 h1{
     text-align: center;
@@ -19,9 +23,16 @@ p{
     font-size: 20px;
 }
 
-em strong {
     color: blanchedalmond;
 }
 .itens {
     font-style: italic;
+}
+
+.benefios {
+    background: #ffff;
+}
+
+h2 {
+    text-align: center;
 }
