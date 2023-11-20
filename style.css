@@ -7,13 +7,16 @@ body{
 }
 
 .principal{
-    background: #ffff
+    background: rgb(148, 14, 14);
     padding: 30px
 }
-h1{
+.titulo-principal{
+    padding-left: 20px;
+}
+.titulo-centralizado {
     text-align: center;
-    color: blueviolet;
-    background-color: aquamarine;
+    color: rgb(247, 247, 247);
+    background-color: rgb(255, 255, 255);
 }
 
 p{
@@ -35,9 +38,6 @@ p{
     padding: 30px;
 }
 
-h2 {
-    text-align: center;
-}
 
 ul{
     display: inline-block;
